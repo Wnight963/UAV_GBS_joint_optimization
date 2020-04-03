@@ -1,17 +1,16 @@
-±¾ÎÄµµÎª¸ÃÓÅ»¯ÏµÍ³µÄÊ¹ÓÃËµÃ÷£¬¶Ô¸÷¸ö½Å±¾ºÍº¯ÊýµÄ¹¦ÄÜ½øÐÐ½éÉÜ
+æœ¬æ–‡æ¡£ä¸ºè¯¥ä¼˜åŒ–ç³»ç»Ÿçš„ä½¿ç”¨è¯´æ˜Žï¼Œå¯¹å„ä¸ªè„šæœ¬å’Œå‡½æ•°çš„åŠŸèƒ½è¿›è¡Œä»‹ç»
 
-1.Ö÷º¯ÊýÎªUntitled3.mÎÄ¼þ£¬¸ÃÎÄ¼þ°üÀ¨³£Á¿µÄÉèÖÃºÍ±£´æ£¬µØÍ¼³õÊ¼»¯º¯ÊýµÄµ÷ÓÃ£¬±äÁ¿µÄ³õÊ¼»¯£¬µü´úÓÅ»¯µÈ¹¦ÄÜ¡£
+1.ä¸»å‡½æ•°ä¸ºUntitled3.mæ–‡ä»¶ï¼Œè¯¥æ–‡ä»¶åŒ…æ‹¬å¸¸é‡çš„è®¾ç½®å’Œä¿å­˜ï¼Œåœ°å›¾åˆå§‹åŒ–å‡½æ•°çš„è°ƒç”¨ï¼Œå˜é‡çš„åˆå§‹åŒ–ï¼Œè¿­ä»£ä¼˜åŒ–ç­‰åŠŸèƒ½ã€‚
 
-2.initial_map.m¡¢initial_map_v2.m¡¢initial_map_v3.m£¬Èý¸öÎÄ¼þÄÚ¾ùÎªµØÍ¼µÄ³õÊ¼»¯º¯Êý£¬¶¨ÒåÁËµØÍ¼µÄ·¶Î§¡¢ÓÃ»§ºÍ»ùÕ¾µÄÎ»ÖÃ¡¢ÎÞÈË»úµÄ³õÊ¼Â·¾¶µÈ£¬²¢½«¶ÔÓ¦µÄÊý¾Ý±£´æ³ÉÏàÓ¦µÄmatÎÄ¼þ£¬±ãÓÚºóÐøÆäËûº¯Êý¶ÁÈ¡µ÷ÓÃ¡£ÆäÖÐ£¬µÚÒ»¸öÎª×î³õµÄÉèÖÃ£¬µØÍ¼µÄÖÐÐÄÎªÁãµã£¬»ùÕ¾ÎªÓÚÖÐÐÄ¡£v2ÎªµØÍ¼µÄÔ­µãÎªÁãµã£¬»ùÕ¾ÎªÓÚ£¨500£¬500£©¡£v3µØÍ¼Óëv2Ò»ÖÂ£¬µ«ÄÇÊ±¶ÔÓÃ»§Î»ÖÃµÄ×ø±ê½øÐÐÁË¸Ä¶¯£¬Ä¿µÄÊÇÎªÁË²âÊÔ¸ÃÏµÍ³¶Ô²»Í¬ÓÃ»§Î»ÖÃµÄÊÊÓÃÐÔ¡£
+2.circle_traåˆ›å»ºåœ†å½¢åˆå§‹è½¨è¿¹ï¼Œmap.måˆ›å»ºåœ°å›¾æ–‡ä»¶
 
-3.Èý¸öÓÅ»¯×ÓÎÊÌâµÄÖ÷Òªº¯Êý·Ö±ðÎªSchedule_optim.m,Schedule_Contraints(×î¿ªÊ¼°Ñconstraints´ò´íÁË£¬ÒòÎªÊÇº¯Êý£¬¾ÍÔÝÊ±Ã»¸Ä)£¬fun_object_schedule.m¡£·Ö±ðÎªÓÅ»¯º¯Êý¡¢ÓÅ»¯·ÇÏßÐÔÔ¼Êøº¯Êý¡¢ÓÅ»¯Ä¿±êº¯Êý¡£Õë¶ÔÂ·¾¶ÓÅ»¯ºÍ·¢Éä¹¦ÂÊÓÅ»¯Í¬Àí¡£×¢ÒâÕâÀïÓÐSchedule_optim2.m, Schedule_optim3.m, Schedule_Contraints, fun_object_schedule3.mÈý¸öÎÄ¼þ£¬Õâ¼¸¸öÎÄ¼þÊÇÊ¹ÓÃÆäËûËã·¨½øÐÐÓÅ»¯£¬Ð§¹û²»ºÃ£¬ÏÈ²»ÓÃ¹Ü¡£
+3.ä¸‰ä¸ªä¼˜åŒ–å­é—®é¢˜çš„ä¸»è¦å‡½æ•°åˆ†åˆ«ä¸ºSchedule_optim.m,Schedule_Contraints(æœ€å¼€å§‹æŠŠconstraintsæ‰“é”™äº†ï¼Œå› ä¸ºæ˜¯å‡½æ•°ï¼Œå°±æš‚æ—¶æ²¡æ”¹)ï¼Œfun_object_schedule.mã€‚åˆ†åˆ«ä¸ºä¼˜åŒ–å‡½æ•°ã€ä¼˜åŒ–éžçº¿æ€§çº¦æŸå‡½æ•°ã€ä¼˜åŒ–ç›®æ ‡å‡½æ•°ã€‚é’ˆå¯¹è·¯å¾„ä¼˜åŒ–å’Œå‘å°„åŠŸçŽ‡ä¼˜åŒ–åŒç†ã€‚
 
-4.plot_tra.mº¯ÊýÊÇÓÃÀ´»æÖÆÂ·¾¶ÓÅ»¯µÄ½á¹û¡£ÀïÃæ»¹°üÀ¨ÓÃ»§ºÍ»ùÕ¾µÄ»æÖÆ£¬¹Ê¸Ä¶¯ÓÃ»§Î»ÖÃ×ø±êÊ±×¢ÒâÒª¶ÔÕâ¸öÎÄ¼þ½øÐÐ¸Ä¶¯¡£
+4.plot_tra.må‡½æ•°æ˜¯ç”¨æ¥ç»˜åˆ¶è·¯å¾„ä¼˜åŒ–çš„ç»“æžœã€‚é‡Œé¢è¿˜åŒ…æ‹¬ç”¨æˆ·å’ŒåŸºç«™çš„ç»˜åˆ¶ï¼Œæ•…æ”¹åŠ¨ç”¨æˆ·ä½ç½®åæ ‡æ—¶æ³¨æ„è¦å¯¹è¿™ä¸ªæ–‡ä»¶è¿›è¡Œæ”¹åŠ¨ã€‚
 
-5.reset_resultº¯ÊýµÄ×÷ÓÃÊ±½«µ±Ç°Ä¿Â¼ÏÂµÄmatÎÄ¼þÖØÖÃ£¬µ«ÊÇÄ¿Ç°Ã»Ê²Ã´ÓÃ¡£
+5.reset_resultå‡½æ•°çš„ä½œç”¨æ—¶å°†å½“å‰ç›®å½•ä¸‹çš„matæ–‡ä»¶é‡ç½®ï¼Œä½†æ˜¯ç›®å‰æ²¡ä»€ä¹ˆç”¨ã€‚
 
-6.calcu_rateº¯ÊýÓÃÀ´¼ÆËã×îºó¸÷¸öÓÃ»§µÄÆ½¾ùÐÅÏ¢ÂÊ£¬±ØÐëÔÚµ±´Î·ÂÕæ¹¤×÷ÇøÎ´Çå¿ÕÖ®Ç°Ê¹ÓÃ¡£ºóÀ´ÔÚÖ÷º¯ÊýÖÐÔö¼ÓÁËÍÌÍÂÁ¿µÄ»æÖÆ£¬Õâ¸öº¯ÊýÒ²Ã»Ê²Ã´ÓÃÁË¡£
+6.calcu_rateå‡½æ•°ç”¨æ¥è®¡ç®—æœ€åŽå„ä¸ªç”¨æˆ·çš„å¹³å‡ä¿¡æ¯çŽ‡ï¼Œå¿…é¡»åœ¨å½“æ¬¡ä»¿çœŸå·¥ä½œåŒºæœªæ¸…ç©ºä¹‹å‰ä½¿ç”¨ã€‚åŽæ¥åœ¨ä¸»å‡½æ•°ä¸­å¢žåŠ äº†åžåé‡çš„ç»˜åˆ¶ï¼Œè¿™ä¸ªå‡½æ•°ä¹Ÿæ²¡ä»€ä¹ˆç”¨äº†ã€‚
 
-7.generate_schedule.mº¯ÊýÓÃÀ´Éú³ÉÒ»×éÓÃ»§µ÷¶È±äÁ¿µÄ³õÊ¼Öµ£¬Ö®Ç°ÓÃÓÚµ÷ÊÔ³ÌÐò£¬ÏÖÔÚÒ²Ã»ÓÃ¡£
+7.generate_schedule.må‡½æ•°ç”¨æ¥ç”Ÿæˆä¸€ç»„ç”¨æˆ·è°ƒåº¦å˜é‡çš„åˆå§‹å€¼ï¼Œä¹‹å‰ç”¨äºŽè°ƒè¯•ç¨‹åºï¼ŒçŽ°åœ¨ä¹Ÿæ²¡ç”¨ã€‚
 
-8.Untitled3.m£¬ Schedule_optim.m£¬trajectory_optim.m, Power_optim.mËÄ¸öÎÄ¼þ×îºó¾ùÓÐÒ»¸ösaveº¯Êý£¬ÓÃÀ´½«×îºóµÄÓÅ»¯½á¹ûµ¥¶À´æ·Åµ½Ò»¸öÏÖÓÐµÄÎÄ¼þ¼ÐÖÐ£¬ÓÃÓÚ±£´æ²âÊÔ½á¹û¡£ÐèÒªÌáÇ°ÐÂ½¨Ò»¸öÎÄ¼þ¼Ð£¬È»ºó½«saveº¯ÊýÖÐµÄÂ·¾¶¸ÄÎªÐÂÎÄ¼þ¼ÐµÄÂ·¾¶¡£Untitled3.mÖÐÓÐÁ½¸ö£¬ÆäÓàÈý¸öÀï¸÷ÓÐÒ»¸ö¡£
